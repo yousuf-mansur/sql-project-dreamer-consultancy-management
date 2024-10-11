@@ -19,7 +19,7 @@ This version of the **Dreamer Consultancy Management System** focuses exclusivel
 
 1. **Clone the repository** (if applicable):
    ```bash
-   git clone https://github.com/yousuf-mansur/dreamer-consultancy-management-system-sql-only.git
+   git clone https://github.com/yousuf-mansur/sql-project-dreamer-consultancy-management.git
    ```
 
 2. **Open the SQL scripts**:
